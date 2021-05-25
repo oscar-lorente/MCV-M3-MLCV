@@ -7,7 +7,7 @@
 ## Summary
 This repository contains the code related to the project on 'Image Classification on Large Datasets' of the [Module 3: Machine Learning for Computer Vision](https://pagines.uab.cat/mcv/content/m3-machine-learning-computer-vision) of the Master in Computer Vision at UAB. 
 
-The aim of this master module is to implement an image classifier using both classic computer vision techniques (Bag of Visual Words classifier using SVM) and deep learning techniques (MLPs, InceptionV3 and our own CNN, TinyNet).
+The aim of this master module is to implement an image classifier using both classic computer vision techniques (Bag of Visual Words classifier using SVM) and deep learning techniques (MLPs, InceptionV3 and our own CNN: TinyNet).
 
 The module consists of 5 different deliveries that build up to a complete pipeline. Refer to the specifics `README.md` for further explanations, requirements and the complete code of each week.
  
