@@ -11,22 +11,22 @@ The aim of this master module is to implement an image classifier using both cla
 
 The module consists of 5 different deliveries that build up to a complete pipeline. Refer to the specifics `README.md` for further explanations, requirements and the complete code of each week.
  
-### Week 1
-- [code and documentation](https://github.com/oscarlorente/Image-Classification/tree/main/week1)
+### Week 1: Bag of Visual Words for Image Classification
+- [code](https://github.com/oscarlorente/Image-Classification/tree/main/week1)
 
-### Week 2
-- [code and documentation](https://github.com/oscarlorente/Image-Classification/tree/main/week2)
+### Week 2: Improving the Bag of Visual Words for Image Classification
+- [code](https://github.com/oscarlorente/Image-Classification/tree/main/week2)
 
-### Week 3
-- [code and documentation](https://github.com/oscarlorente/Image-Classification/tree/main/week3)
+### Week 3: Image Classification with MLPs
+- [code](https://github.com/oscarlorente/Image-Classification/tree/main/week3)
 - [slides](https://docs.google.com/presentation/d/1GRrlxDp_QxT_IAb1mgJvjZzoNyA1bxDezZi6L2M6jEY/edit#slide=id.g35f391192_00)
 
-### Week 4
-- [code and documentation](https://github.com/oscarlorente/Image-Classification/tree/main/week4)
+### Week 4: Fine-tuning Inceptionv3
+- [code](https://github.com/oscarlorente/Image-Classification/tree/main/week4)
 - [slides](https://docs.google.com/presentation/d/1YhWEt4s9W2j_YF7bFtFJShZqGeL_9COE/edit#slide=id.p2)
 
-### Week 5
-- [code and documentation](https://github.com/oscarlorente/Image-Classification/tree/main/week5)
+### Week 5: Creating our own CNN - TinyNet
+- [code](https://github.com/oscarlorente/Image-Classification/tree/main/week5)
 - [slides (final presentation)](https://docs.google.com/presentation/d/1_gNlN7yLuF_k_meqYDFXwZnnLax4BhHQQpkBvpv3UTM/edit#slide=id.g35f391192_00)
 
 ## Contributors: Team 4
